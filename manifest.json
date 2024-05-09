@@ -1,0 +1,16 @@
+{
+  "name": "My PWA",
+  "short_name": "PWA",
+  "start_url": "/tap10/",
+  "scope": "/tap10/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "My first Progressive Web App",
+  "icons": [
+    {
+      "src": "/tap10/public/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/webp"
+    }
+  ]
+}
